@@ -1,0 +1,30 @@
+{
+  "name": "@zaka-external-trade/crawler",
+  "version": "1.0.0",
+  "private": true,
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "dev": "ts-node src/index.ts",
+    "test": "jest",
+    "lint": "eslint src/**/*.ts"
+  },
+  "dependencies": {
+    "https-proxy-agent": "^7.0.0",
+    "node-fetch": "^3.3.2",
+    "puppeteer": "^24.6.1",
+    "winston": "^3.11.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.0.0",
+    "@types/jsdom": "^21.1.7",
+    "@types/node": "^20.17.30",
+    "@types/node-fetch": "^2.6.11",
+    "@types/puppeteer": "^7.0.4",
+    "eslint": "^8.0.0",
+    "jest": "^29.0.0",
+    "ts-node": "^10.0.0",
+    "typescript": "^5.0.0"
+  }
+}
