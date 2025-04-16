@@ -221,6 +221,175 @@
   - 网址：https://www.shipbob.com/
   - 特点：跨境电商物流平台
 
+### 8. 支付服务平台
+- PayPal
+  - 网址：https://www.paypal.com/
+  - 特点：全球支付平台
+
+- Stripe
+  - 网址：https://stripe.com/
+  - 特点：在线支付处理平台
+
+- WorldFirst
+  - 网址：https://www.worldfirst.com/
+  - 特点：国际支付平台
+
+### 9. 海关数据平台
+- ImportGenius
+  - 网址：https://www.importgenius.com/
+  - 特点：美国海关数据平台
+
+- Panjiva
+  - 网址：https://www.panjiva.com/
+  - 特点：全球贸易数据平台
+
+- ImportYeti
+  - 网址：https://www.importyeti.com/
+  - 特点：进口商数据平台
+
+### 10. 市场研究平台
+- Statista
+  - 网址：https://www.statista.com/
+  - 特点：市场数据统计平台
+
+- Euromonitor
+  - 网址：https://www.euromonitor.com/
+  - 特点：市场研究平台
+
+- IBISWorld
+  - 网址：https://www.ibisworld.com/
+  - 特点：行业研究报告平台
+
+### 11. 贸易展会平台
+- Canton Fair
+  - 网址：https://www.cantonfair.org.cn/
+  - 特点：广交会线上平台
+
+- Global Sources Trade Shows
+  - 网址：https://www.globalsources.com/trade-shows/
+  - 特点：环球资源展会平台
+
+- HKTDC Trade Shows
+  - 网址：https://www.hktdc.com/trade-shows/
+  - 特点：香港贸发局展会平台
+
+### 12. 贸易服务商平台
+- DHL Trade Automation
+  - 网址：https://www.dhl.com/
+  - 特点：国际物流服务商
+
+- FedEx Trade Networks
+  - 网址：https://www.fedex.com/
+  - 特点：国际物流服务商
+
+- UPS Trade Management
+  - 网址：https://www.ups.com/
+  - 特点：国际物流服务商
+
+### 13. 贸易金融平台
+- Trade Finance Global
+  - 网址：https://www.tradefinanceglobal.com/
+  - 特点：贸易金融信息平台
+
+- Export Finance Australia
+  - 网址：https://www.exportfinance.gov.au/
+  - 特点：澳大利亚出口金融平台
+
+- UK Export Finance
+  - 网址：https://www.gov.uk/government/organisations/uk-export-finance
+  - 特点：英国出口金融平台
+
+### 14. 贸易认证平台
+- SGS
+  - 网址：https://www.sgs.com/
+  - 特点：国际认证机构
+
+- Bureau Veritas
+  - 网址：https://www.bureauveritas.com/
+  - 特点：国际认证机构
+
+- TUV
+  - 网址：https://www.tuv.com/
+  - 特点：国际认证机构
+
+### 15. 贸易法律平台
+- LexisNexis
+  - 网址：https://www.lexisnexis.com/
+  - 特点：法律信息平台
+
+- Westlaw
+  - 网址：https://www.westlaw.com/
+  - 特点：法律信息平台
+
+- Trade Law Guide
+  - 网址：https://www.tradelawguide.com/
+  - 特点：贸易法律信息平台
+
+### 16. 贸易培训平台
+- Export.gov
+  - 网址：https://www.export.gov/
+  - 特点：美国出口培训平台
+
+- Trade Ready
+  - 网址：https://www.tradeready.ca/
+  - 特点：加拿大贸易培训平台
+
+- UK Trade & Investment
+  - 网址：https://www.gov.uk/government/organisations/department-for-international-trade
+  - 特点：英国贸易培训平台
+
+### 17. 贸易协会平台
+- World Trade Organization
+  - 网址：https://www.wto.org/
+  - 特点：世界贸易组织
+
+- International Chamber of Commerce
+  - 网址：https://iccwbo.org/
+  - 特点：国际商会
+
+- World Customs Organization
+  - 网址：http://www.wcoomd.org/
+  - 特点：世界海关组织
+
+### 18. 贸易媒体平台
+- The Economist
+  - 网址：https://www.economist.com/
+  - 特点：经济贸易媒体
+
+- Financial Times
+  - 网址：https://www.ft.com/
+  - 特点：金融贸易媒体
+
+- Bloomberg
+  - 网址：https://www.bloomberg.com/
+  - 特点：金融贸易媒体
+
+### 19. 贸易社交平台
+- LinkedIn
+  - 网址：https://www.linkedin.com/
+  - 特点：商务社交平台
+
+- Xing
+  - 网址：https://www.xing.com/
+  - 特点：欧洲商务社交平台
+
+- Viadeo
+  - 网址：https://www.viadeo.com/
+  - 特点：法国商务社交平台
+
+### 20. 贸易工具平台
+- Google Trends
+  - 网址：https://trends.google.com/
+  - 特点：市场趋势分析工具
+
+- SEMrush
+  - 网址：https://www.semrush.com/
+  - 特点：市场分析工具
+
+- SimilarWeb
+  - 网址：https://www.similarweb.com/
+  - 特点：网站分析工具
+
 ## 开发计划
 
 ### 第一阶段：基础架构搭建
